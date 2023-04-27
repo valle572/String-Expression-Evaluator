@@ -11,5 +11,8 @@
 ## Video Tutorial
 For tutorial: [click here](https://www.youtube.com/watch?v=o58WRv-2dlc)
 -->
+## Images
+![preview](./img/preview.png)
+![Basic functionality](./img/basic-functionality.png)
 ## Contact
 Created by [@valle572](https://itsvalle.com) - feel free to contact me :)
