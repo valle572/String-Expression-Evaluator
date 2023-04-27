@@ -7,10 +7,12 @@
 - Full PEMDAS support
 - Checks validity of expression and returns useful error messages
 - Has test cases to ensure testing function works properly
-<!--
-## Video Tutorial
-For tutorial: [click here](https://www.youtube.com/watch?v=o58WRv-2dlc)
--->
+
+## Video Tutorials
+Expression evaluator tutorial: [click here](https://www.youtube.com/watch?v=pNXY8alQqCs)
+
+Testing and optimization tutorial: [click here](https://www.youtube.com/watch?v=ViiG5ZZIccQ)
+
 ## Images
 ![preview](./img/preview.png)
 ![Basic functionality](./img/basic-functionality.png)
