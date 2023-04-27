@@ -1,0 +1,28 @@
+body {
+   background-color: #000;
+   color: #fff;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 3rem;
+}
+span {
+   display: flex;
+   border-radius: 1rem;
+   overflow: hidden;
+}
+input,
+button {
+   background-color: #800;
+   font-size: 2rem;
+   border: none;
+   color: inherit;
+   padding: 0.5rem;
+}
+button {
+   border-left: 1px solid;
+   cursor: pointer;
+}
+button:active {
+   background-color: #500;
+}
